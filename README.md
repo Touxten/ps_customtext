@@ -6,7 +6,7 @@ Give your visitors extra information, display a customized block of content on y
 
 ## Compatibility
 
-PrestaShop: `8.0.0` or later
+PrestaShop: `8.0. 0` or later
 
 ## Reporting issues
 
